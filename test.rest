@@ -1,0 +1,13 @@
+POST http://localhost:3000/client/nouveauclient
+Content-Type: application/json; 
+
+{
+        "nom": "serge",
+        "prenom": "kouadio bi",
+        "email": "kouadiobiserge@gmail.com",
+        "numero_telephone ": "0767150797",
+        "adresse": "1 rue moliere",
+        "ville": "magny-en-vexin",
+        "code_postal": "95130",
+        "password": "doudoubest"
+}
